@@ -1,0 +1,12 @@
+D:\InventorySystem\Busines_Layer\bin\Debug\net5.0\Busines_Layer.deps.json
+D:\InventorySystem\Busines_Layer\bin\Debug\net5.0\Busines_Layer.dll
+D:\InventorySystem\Busines_Layer\bin\Debug\net5.0\ref\Busines_Layer.dll
+D:\InventorySystem\Busines_Layer\bin\Debug\net5.0\Busines_Layer.pdb
+D:\InventorySystem\Busines_Layer\obj\Debug\net5.0\Busines_Layer.csproj.AssemblyReference.cache
+D:\InventorySystem\Busines_Layer\obj\Debug\net5.0\Busines_Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\InventorySystem\Busines_Layer\obj\Debug\net5.0\Busines_Layer.AssemblyInfoInputs.cache
+D:\InventorySystem\Busines_Layer\obj\Debug\net5.0\Busines_Layer.AssemblyInfo.cs
+D:\InventorySystem\Busines_Layer\obj\Debug\net5.0\Busines_Layer.csproj.CoreCompileInputs.cache
+D:\InventorySystem\Busines_Layer\obj\Debug\net5.0\Busines_Layer.dll
+D:\InventorySystem\Busines_Layer\obj\Debug\net5.0\ref\Busines_Layer.dll
+D:\InventorySystem\Busines_Layer\obj\Debug\net5.0\Busines_Layer.pdb
